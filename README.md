@@ -5,8 +5,8 @@ is destroyed in a spectacular, slow-motion extravaganza.
 
 ## Authors
 
-- John Leonard (jdleonard@vcu.edu)
-- Jason Bennett (jebennett@vcu.edu)
+- Daniel Polen (Polenda@vcu.edu)
+- Kenny Bills (billsk@vcu.edu)
 
 ## Game Description
 
@@ -16,9 +16,9 @@ this game different from others?  What is the goal for playing?
 ## Important Links
 
 - Game URL: < ... >
-- GITHUB URL: < [...](https://github.com/cmsc-vcu/gamedev-fa2024-hw6-team-dk) >
+- GITHUB URL: < [Github Link](https://github.com/cmsc-vcu/gamedev-fa2024-hw6-team-dk) >
 - Gameplay Video URL: < ... >
-- Google Doc writeup: < [...](https://docs.google.com/document/d/1csFpo8wnTg6LFRxYNHWxpt5MID8L7bJJoeugDqbLxjA/edit?usp=sharing) >
+- Google Doc writeup: < [Google Doc](https://docs.google.com/document/d/1csFpo8wnTg6LFRxYNHWxpt5MID8L7bJJoeugDqbLxjA/edit?usp=sharing) >
 
 ## Files in the repository
 
