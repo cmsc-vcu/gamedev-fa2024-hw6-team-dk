@@ -5,7 +5,7 @@ is destroyed in a spectacular, slow-motion extravaganza.
 
 ## Authors
 
-- Daniel Polen (Polenda@vcu.edu)
+- Daniel Polen (polenda@vcu.edu)
 - Kenny Bills (billsk@vcu.edu)
 
 ## Game Description
