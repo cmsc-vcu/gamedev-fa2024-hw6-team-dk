@@ -8,6 +8,7 @@ public class CoinHandler : MonoBehaviour
     public GameObject handler;
 
     void Start() {
+        handler = GameObject.FindWithTag("GameController");
     }
     void OnTriggerEnter2D(Collider2D other) {
         Debug.Log("in");
