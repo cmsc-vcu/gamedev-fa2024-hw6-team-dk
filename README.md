@@ -1,7 +1,4 @@
-# Elevator Wipeout - Sidecars and PBRs - Fall 2024
-
-Elevator Wipeout is a save-the-world game where the player does all they can to prevent bad guys from destroying a space elevator.  If the bad guys win, the earth
-is destroyed in a spectacular, slow-motion extravaganza.
+# DK Jungle Escape - Fall 2024
 
 ## Authors
 
@@ -10,8 +7,7 @@ is destroyed in a spectacular, slow-motion extravaganza.
 
 ## Game Description
 
-Provide more details of the game.  Discuss any unique game play features.  Why is
-this game different from others?  What is the goal for playing?
+You are an elf running through the forest, running from the darkness. As you run through the level you can collect coins to increase your score at the end. Using WASD to control your character you will try to find your twin brother to win the game.
 
 ## Important Links
 
